@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto+Mono:ital,wght@0,100;0,300;0,400;1,400&family=Tiro+Kannada&display=swap');
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: darkorange;
+    /* font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Mono', monospace; */
+font-family: 'Tiro Kannada', serif;
+}
+img{
+    border-radius: 22px;
+    height: 100px;
+    
+}
